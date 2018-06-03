@@ -1,0 +1,11 @@
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/bin/Debug/netcoreapp2.0/Horse_Manager_API.deps.json
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/bin/Debug/netcoreapp2.0/Horse_Manager_API.runtimeconfig.json
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/bin/Debug/netcoreapp2.0/Horse_Manager_API.runtimeconfig.dev.json
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/bin/Debug/netcoreapp2.0/Horse_Manager_API.dll
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/bin/Debug/netcoreapp2.0/Horse_Manager_API.pdb
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/obj/Debug/netcoreapp2.0/Horse_Manager_API.csprojResolveAssemblyReference.cache
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/obj/Debug/netcoreapp2.0/Horse_Manager_API.csproj.CoreCompileInputs.cache
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/obj/Debug/netcoreapp2.0/Horse_Manager_API.AssemblyInfoInputs.cache
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/obj/Debug/netcoreapp2.0/Horse_Manager_API.AssemblyInfo.cs
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/obj/Debug/netcoreapp2.0/Horse_Manager_API.dll
+/Users/robinanthonissen/Library/Mobile Documents/com~apple~CloudDocs/VS & XS Projects/Horse_Manager_API/Horse_Manager_API/obj/Debug/netcoreapp2.0/Horse_Manager_API.pdb

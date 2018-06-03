@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="horse-manager" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/robinanthonissen/Library/Mobile\ Documents/com~apple~CloudDocs/VS\ &amp;\ XS\ Projects/Horse_Manager_API/Horse_Manager_API/obj/Release/netcoreapp2\.0/PubTmp/Out/$" />
+  </parameter>
+</parameters>
